@@ -1,0 +1,501 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple History NGG Loggers\n"
+"POT-Creation-Date: 2016-10-04 17:43+0200\n"
+"PO-Revision-Date: 2016-10-04 17:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-history-ngg-loggers.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-simple-history-ngg-loggers-admin.php:135
+#: admin/class-simple-history-ngg-loggers-admin.php:823
+msgid "Settings"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:185
+#: admin/class-simple-history-ngg-loggers-admin.php:196
+#: admin/class-simple-history-ngg-loggers-admin.php:220
+msgid "Warning:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:186
+#: admin/class-simple-history-ngg-loggers-admin.php:221
+#, php-format
+msgid ""
+"Simple History NGG Loggers is an add-on for the %1$s WordPress plugin, but "
+"<b>%1$s is not <i>activated</i></b>."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:197
+#, php-format
+msgid ""
+"NextGEN Gallery version 2.1.43 needed or higher for full functionality. You "
+"only have version %s. Please upgrade NextGEN Gallery."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:205
+#: admin/class-simple-history-ngg-loggers-admin.php:229
+msgid "Error:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:206
+#: admin/class-simple-history-ngg-loggers-admin.php:230
+#, php-format
+msgid ""
+"Simple History NGG Loggers is an add-on for the %1$s WordPress plugin, but "
+"<b>%1$s is not <i>installed</i></b>."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:257
+msgid "Logging NextGEN Gallery user activities:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:264
+msgid "images"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:272
+msgid "galleries"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:280
+msgid "albums"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:290
+msgid "Miscellaneous options:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:297
+msgid "Show notifications"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:306
+msgid "gallery links"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:314
+msgid "filter log entries"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:322
+msgid "empty log intervall"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:331
+msgid "customized gallery list"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:339
+msgid "save uploader"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:347
+msgid "log emails"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:374
+#: admin/class-simple-history-ngg-loggers-admin.php:388
+msgid "image_id1"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:375
+#: admin/class-simple-history-ngg-loggers-admin.php:388
+msgid "image_title1"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:376
+#: admin/class-simple-history-ngg-loggers-admin.php:423
+#: admin/class-simple-history-ngg-loggers-admin.php:451
+#: admin/class-simple-history-ngg-loggers-admin.php:500
+msgid "image_filename"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:377
+#: admin/class-simple-history-ngg-loggers-admin.php:389
+#: admin/class-simple-history-ngg-loggers-admin.php:452
+#: admin/class-simple-history-ngg-loggers-admin.php:462
+msgid "gallery_id1"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:378
+#: admin/class-simple-history-ngg-loggers-admin.php:389
+#: admin/class-simple-history-ngg-loggers-admin.php:453
+#: admin/class-simple-history-ngg-loggers-admin.php:462
+msgid "gallery_title1"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:379
+#: admin/class-simple-history-ngg-loggers-admin.php:454
+msgid "gallery_description1"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:380
+#: admin/class-simple-history-ngg-loggers-admin.php:390
+msgid "image_id2"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:381
+#: admin/class-simple-history-ngg-loggers-admin.php:390
+msgid "image_title2"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:382
+#: admin/class-simple-history-ngg-loggers-admin.php:391
+#: admin/class-simple-history-ngg-loggers-admin.php:455
+#: admin/class-simple-history-ngg-loggers-admin.php:463
+msgid "gallery_id2"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:383
+#: admin/class-simple-history-ngg-loggers-admin.php:391
+#: admin/class-simple-history-ngg-loggers-admin.php:456
+#: admin/class-simple-history-ngg-loggers-admin.php:463
+msgid "gallery_title2"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:384
+#: admin/class-simple-history-ngg-loggers-admin.php:457
+msgid "gallery_description2"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:385
+#: admin/class-simple-history-ngg-loggers-admin.php:427
+#: admin/class-simple-history-ngg-loggers-admin.php:458
+#: admin/class-simple-history-ngg-loggers-admin.php:504
+#: admin/class-simple-history-ngg-loggers-admin.php:617
+#: admin/class-simple-history-ngg-loggers-admin.php:637
+#: admin/class-simple-history-ngg-loggers-admin.php:658
+#: admin/class-simple-history-ngg-loggers-admin.php:680
+#: admin/class-simple-history-ngg-loggers-admin.php:701
+#: admin/class-simple-history-ngg-loggers-admin.php:732
+#: admin/class-simple-history-ngg-loggers-admin.php:763
+msgid "action"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:387
+#, php-format
+msgid "copies image %s from gallery %s as image %s to gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:421
+#: admin/class-simple-history-ngg-loggers-admin.php:430
+#: admin/class-simple-history-ngg-loggers-admin.php:449
+#: admin/class-simple-history-ngg-loggers-admin.php:461
+#: admin/class-simple-history-ngg-loggers-admin.php:497
+#: admin/class-simple-history-ngg-loggers-admin.php:573
+msgid "image_id"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:422
+#: admin/class-simple-history-ngg-loggers-admin.php:430
+#: admin/class-simple-history-ngg-loggers-admin.php:450
+#: admin/class-simple-history-ngg-loggers-admin.php:461
+#: admin/class-simple-history-ngg-loggers-admin.php:498
+#: admin/class-simple-history-ngg-loggers-admin.php:573
+msgid "image_title"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:424
+#: admin/class-simple-history-ngg-loggers-admin.php:431
+#: admin/class-simple-history-ngg-loggers-admin.php:501
+#: admin/class-simple-history-ngg-loggers-admin.php:574
+#: admin/class-simple-history-ngg-loggers-admin.php:614
+#: admin/class-simple-history-ngg-loggers-admin.php:620
+#: admin/class-simple-history-ngg-loggers-admin.php:634
+#: admin/class-simple-history-ngg-loggers-admin.php:640
+#: admin/class-simple-history-ngg-loggers-admin.php:655
+#: admin/class-simple-history-ngg-loggers-admin.php:661
+msgid "gallery_id"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:425
+#: admin/class-simple-history-ngg-loggers-admin.php:431
+#: admin/class-simple-history-ngg-loggers-admin.php:502
+#: admin/class-simple-history-ngg-loggers-admin.php:574
+#: admin/class-simple-history-ngg-loggers-admin.php:615
+#: admin/class-simple-history-ngg-loggers-admin.php:620
+#: admin/class-simple-history-ngg-loggers-admin.php:635
+#: admin/class-simple-history-ngg-loggers-admin.php:640
+#: admin/class-simple-history-ngg-loggers-admin.php:656
+#: admin/class-simple-history-ngg-loggers-admin.php:661
+msgid "gallery_title"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:426
+#: admin/class-simple-history-ngg-loggers-admin.php:503
+#: admin/class-simple-history-ngg-loggers-admin.php:616
+#: admin/class-simple-history-ngg-loggers-admin.php:636
+#: admin/class-simple-history-ngg-loggers-admin.php:657
+msgid "gallery_description"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:429
+#, php-format
+msgid "deletes image %s in gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:460
+#, php-format
+msgid "moves image %s from gallery %s to gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:499
+msgid "image_description"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:572
+#, php-format
+msgid "uploads image %s into gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:619
+#, php-format
+msgid "updates  (image) descriptions in gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:639
+#, php-format
+msgid "creates new gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:660
+#, php-format
+msgid "deletes gallery %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:677
+#: admin/class-simple-history-ngg-loggers-admin.php:683
+#: admin/class-simple-history-ngg-loggers-admin.php:698
+#: admin/class-simple-history-ngg-loggers-admin.php:704
+#: admin/class-simple-history-ngg-loggers-admin.php:728
+#: admin/class-simple-history-ngg-loggers-admin.php:735
+#: admin/class-simple-history-ngg-loggers-admin.php:759
+#: admin/class-simple-history-ngg-loggers-admin.php:766
+msgid "album_id"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:678
+#: admin/class-simple-history-ngg-loggers-admin.php:683
+#: admin/class-simple-history-ngg-loggers-admin.php:699
+#: admin/class-simple-history-ngg-loggers-admin.php:729
+#: admin/class-simple-history-ngg-loggers-admin.php:735
+#: admin/class-simple-history-ngg-loggers-admin.php:760
+#: admin/class-simple-history-ngg-loggers-admin.php:766
+msgid "album_title"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:679
+#: admin/class-simple-history-ngg-loggers-admin.php:700
+#: admin/class-simple-history-ngg-loggers-admin.php:730
+#: admin/class-simple-history-ngg-loggers-admin.php:761
+msgid "album_description"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:682
+#, php-format
+msgid "creates new album %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:699
+#: admin/class-simple-history-ngg-loggers-admin.php:700
+msgid "not available, deleted before logging"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:703
+#, php-format
+msgid "deletes album %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:725
+#: admin/class-simple-history-ngg-loggers-admin.php:756
+msgid "empty list"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:731
+#: admin/class-simple-history-ngg-loggers-admin.php:762
+msgid "album_content"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:734
+#, php-format
+msgid "updates metadata for album %s."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:765
+#, php-format
+msgid "updates gallery list for album %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-simple-history-ngg-loggers-admin.php:823
+msgid "Simple History NGG Loggers"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:825
+msgid "extended mode"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:837
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:850
+msgid "Individually enable logging for each of the following user activities:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:856
+msgid ""
+"upload images (and set titel and description, if available in exif data)"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:857
+msgid "move images"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:858
+msgid "copy images"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:859
+msgid "delete images"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:866
+msgid "create new gallery"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:867
+msgid ""
+"update gallery metadata (including picture titels, descriptions and tags)"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:868
+msgid "delete gallery (and images in such galleries)"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:875
+msgid "create new album"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:876
+msgid "update album metadata (see gallery list in log details)"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:877
+msgid "delete album"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:882
+msgid ""
+"Miscellaneous further settings related to NextGEN Gallery or Simple History "
+"plugins:"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:914
+msgid "on plugin page and on settings page"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:916
+msgid "only on settings page"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:918
+msgid "show no notification"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:919
+msgid ""
+"Plugin sets notifications if either of the two needed plugins (Simple "
+"History or NextGEN Gallery) is not installed or activated."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:927
+msgid "add edit_post_link"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:932
+msgid "add breadcrumb link"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:934
+msgid ""
+"add a direct link into the backend manage gallery page for frontend pages, "
+"which itself are directly linked to a NextGEN gallery"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:941
+msgid "filter log post entries generated by NextGEN Gallery for pictures"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:943
+msgid "filter log post entries generated by NextGEN Gallery for galleries"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:945
+msgid "filter log post entries generated by NextGEN Gallery for albums"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:946
+msgid ""
+"NextGEN gallery creates many generic posts to document picture, gallery and "
+"album actions, without providing any explicite information."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:954
+msgid "set empty log intervall to zero for Simple History"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:955
+msgid "Never empty log for Simple History."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:963
+msgid "only list own galleries on manage gallery page"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:964
+msgid ""
+"This restriction applies to all NextGEN gallery users, who can only manage "
+"their own galleries."
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:972
+msgid "save uploader to custom field in NextGEN Gallery pictures table"
+msgstr ""
+
+#: admin/class-simple-history-ngg-loggers-admin.php:979
+msgid "log emails being automatically send out by wordpress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://r-fotos.de/wordpress-plugins/simple-history-ngg-loggers/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin is an extension of the Simple History plugin. It adds specific "
+"loggers for NextGEN Gallery user activities like uploading / deleting / "
+"moving / copying images."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Harald R&ouml;h"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://r-fotos.de"
+msgstr ""
